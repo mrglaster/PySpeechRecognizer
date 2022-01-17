@@ -12,7 +12,7 @@ or
 pip install requirements.txt
 ```
 
-2) Run python script
+2) Run the python script
 ```
 python main.py -i my_audio_file.wav -lang ru-RU 
 ```
