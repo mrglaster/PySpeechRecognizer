@@ -19,7 +19,7 @@ python main.py -i my_audio_file.wav -lang ru-RU
 
 3) Find recognition results in output.txt
 
-## Where can I find a supported languages list?
+## Where can I find the supported languages list?
 
 ### https://cloud.google.com/speech-to-text/docs/languages 
 
